@@ -7,12 +7,14 @@
 - Softex Recife Student (BR-PE)
 - Learning at moment HTML, CSS, JS and Python
 
+##Contact Me
+
 [![Linkedin Badge](https://img.shields.io/badge/-vitorcamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-câmara-199793192/)](https://www.linkedin.com/in/vitor-câmara-199793192/)
 [![Instagram Badge](https://img.shields.io/badge/-vithorcamara-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vithor_camara/?hl=pt-br)](https://www.instagram.com/vithor_camara/)
 [![Gmail Badge](https://img.shields.io/badge/-vitor.camarapd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.camarapd@gmail.com)](mailto:vitor.camarapd@gmail.com)
 
 
-## 🚀💻 Technologies & Tools
+### 🚀💻 Technologies & Tools
 
 - 📝 Main language: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - 📡 Backend: ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -24,7 +26,7 @@
 - 📦 Version Code Control: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vithorcamara&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithorcamara&hide=TeX&layout=compact)
