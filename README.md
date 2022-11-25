@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vitor Camara but you can call me "Vithor" <img src="https://media.giphy.com/media/g326VFWdSJLPmfdVSJ/giphy.gif" width="25px">
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vitor Camara but you can call me "Vithor" <img src="https://media.giphy.com/media/g326VFWdSJLPmfdVSJ/giphy.gif">
 - Full Stack in training
 - Mythology Lover
 - LoL Amateur Player
