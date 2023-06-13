@@ -4,7 +4,7 @@
 - Full Stack in training
 - Mythology Lover
 - LoL Amateur Player
-- Softex Recife Student (BR-PE)
+- FICR Freshman (1/5 Period)
 - Learning at moment HTML, CSS, JS and Python
 
 ### Contact Me
