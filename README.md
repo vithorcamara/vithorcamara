@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vithorcamara" alt="vithorcamara" /></p>
 
-# <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"><p>Hey Guys, I'm Vitor Camara but you can call me "Vithor"</p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnp4NDJoZDdpanoxenhwcDAwMHMwbHJ3MDI4ZWJuZndib2I2YngwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PsbM0OpqPl9OClfSw/giphy.webp" width="100%"></div>
+# <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"><p>Hey Guys, I'm Vitor Camara but you can call me "Vithor"</p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hycWtuM2JlZG8xcmNzOTV2czdnenc5MWtvazQzaDVkdGo5aGs5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PsbM0OpqPl9OClfSw/giphy.gif" width="100%"></div>
 
 ### 📑 About me
 **`Front End / Mobile Developer`**
