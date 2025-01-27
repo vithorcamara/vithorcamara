@@ -5,7 +5,7 @@
 ### 📑 About me
 **`Front End / Mobile Developer`**
 <p>
-💻🚀 Passionate about technology and innovation, I'm currently studying in Systems Analysis and Development from FICR. Since 2020, I have dedicated myself to web and mobile development, focusing on creating impactful solutions. I am committed to solving complex problems and aiming to generate a positive impact on both the market and society.
+💻🚀 Passionate about technology and innovation, I'm currently studying in Systems Analysis and Development from FICR. Since 2022, I have dedicated myself to web and mobile development, focusing on creating impactful solutions. I am committed to solving complex problems and aiming to generate a positive impact on both the market and society.
 <br>
 📩✨ So, let's exchange ideas? I'm available to collaborate on innovative projects!
 </p>
