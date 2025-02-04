@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vithorcamara" alt="vithorcamara" /></p>
 
-# <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"><p>Hey Guys, I'm Vitor Camara but you can call me "Vithor"</p></div>
+# <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"><p>Hey Guys, I'm Vitor Camara but you can call me "Vithor"</p><img src="https://github.com/vithorcamara/vithorcamara/blob/main/loki.gif" alt="Loki GIF" style="width:100vw;"></div>
 
 ### 📑 About me
 **`Front End / Mobile Developer`**
