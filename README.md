@@ -3,9 +3,12 @@
 # <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"><p>Hey Guys, I'm Vitor Camara but you can call me "Ryuku"</p><img src="https://github.com/vithorcamara/vithorcamara/blob/main/loki.gif" alt="Loki GIF" style="width:100vw;"></div>
 
 ### 📑 About me
-**`Front End / Mobile Developer`**
+**`Full Stack & RPA Developer and SD Teacher`**
 <p>
-💻🚀 Passionate about technology and innovation, I'm currently studying in Systems Analysis and Development from FICR. Since 2022, I have dedicated myself to web and mobile development, focusing on creating impactful solutions. I am committed to solving complex problems and aiming to generate a positive impact on both the market and society.
+💻🚀 Passionate about technology and innovation, I hold a Bachelor’s degree in Systems Analysis and Development from FICR. Since 2022, I have been dedicated to web and mobile development, focusing on building impactful and scalable solutions.
+Currently, I am a non-degree Master’s student at CIn (Centro de Informática), where I continue to strengthen my academic and technical foundation.
+Professionally, I have experience across leading institutions such as Deloitte, Porto Digital, and SENAC-PE, contributing to projects focused on digital transformation, innovation, and technology-driven solutions.
+I am driven by complex problem-solving and continuously seek opportunities to create meaningful impact for both businesses and society.
 <br>
 📩✨ So, let's exchange ideas? I'm available to collaborate on innovative projects!
 </p>
