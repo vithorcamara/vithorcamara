@@ -46,4 +46,5 @@ I am driven by complex problem-solving and continuously seek opportunities to cr
 <div style="display: flex; justify-content: center; gap: 10px 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=vithorcamara&theme=chartreuse-dark&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorcamara&theme=chartreuse-dark&hide=TeX&layout=compact&langs_count=8">
+    <img src="https://raw.githubusercontent.com/vithorcamara/vithorcamara/output/github-snake.svg">
 </div>
